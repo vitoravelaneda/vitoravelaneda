@@ -12,4 +12,4 @@
   
 ##
  
-![Snake animation](https://github.com/vitoravelaneda/vitoravelaneda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vitoravelaneda/vitoravelaneda/blob/output/github-contribution-grid-snake.svg)
