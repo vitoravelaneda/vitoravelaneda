@@ -1,8 +1,7 @@
 
 <div align="center">
  <h2> ✨ Hello, welcome! ✨ </h2>
- <h3> ✨ My name is Vitor Avelaneda. ✨ </h3> 
- <h3> ✨ I'm a physics student and lover of astrophysics and data science. ✨ </h3> 
+ <h3> ✨ My name is Vitor Avelaneda. I'm a physics student and lover of astrophysics and data science. ✨ </h3> 
 </div> 
   
 <div align="center">
