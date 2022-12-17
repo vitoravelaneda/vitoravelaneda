@@ -1,5 +1,6 @@
-# ✨ Hello welcome! ✨
-### ✨ My name is Vitor Avelaneda. I'm a physics student and lover of astrophysics and data science. ✨
+# ✨ Hello, welcome! ✨
+### ✨ My name is Vitor Avelaneda. 
+### ✨ I'm a physics student and lover of astrophysics and data science. ✨
 
 <div align="center">
   <a href="https://github.com/vitoravelaneda">
