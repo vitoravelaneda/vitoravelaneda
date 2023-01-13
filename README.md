@@ -3,13 +3,7 @@
  <h2> ✨ Hello, welcome! ✨ </h2>
  <h4> ✨ My name is Vitor Avelaneda. I'm a physics student and lover of astrophysics and data science. ✨ </h4> 
 </div> 
-  
-<div align="center">
-  <a href="https://linktr.ee/avelaneda_vitor">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vitoravelaneda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoravelaneda&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div> 
+ 
 
 <div align="center"> 
    <h2></h2>   
