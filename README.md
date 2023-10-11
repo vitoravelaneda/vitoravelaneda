@@ -1,5 +1,4 @@
-![snake gif](https://github.com/vitoravelaneda/vitoravelaneda/blob/output/github-contribution-grid-snake.gif)
-![snake animation](https://github.com/vitoravelaneda/vitoravelaneda/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/vitoravelaneda/vitoravelaneda/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **vitoravelaneda/vitoravelaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
